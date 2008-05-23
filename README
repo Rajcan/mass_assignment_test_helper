@@ -1,7 +1,7 @@
 mass_assignment_test_helper
 ===========================
 
-his is a test helper that you can place into your test_helper.rb file to aid in testing your ActiveRecord models against mass assignment vulnerabilities.
+This is a test helper that you can place into your test_helper.rb file to aid in testing your ActiveRecord models against mass assignment vulnerabilities.
  
 The following form adds a method named test_mass_assignment_is_secure
 to your class, so that mass assignment checks are a bit prettier:

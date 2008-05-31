@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name = "mass_assignment_test_helper"
+  s.name = "alanj-mass_assignment_test_helper"
   s.version = "0.0.1"
   s.date = "2008-05-23"
   s.summary = "Helper for testing mass assignment security."
